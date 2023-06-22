@@ -1,3 +1,4 @@
+require 'active_support/core_ext'
 # each line start with #- is output of above line
 
 ### extensions to time
